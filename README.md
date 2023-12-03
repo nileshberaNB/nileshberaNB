@@ -1,5 +1,5 @@
 
-[![MasterHead](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/lofi.gif)](https://www.linkedin.com/in/nileshberaNB/)
+[![MasterHead](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/lofi.gif)](https://www.linkedin.com/in/nilesh-bera-7b6472243/)
 
 
 <h3 align="center">Languages and Tools:</h3>
